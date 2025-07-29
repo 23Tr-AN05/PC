@@ -23,7 +23,7 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Quatre')">Quatrième</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Trois')">Troisième</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Seconde')">Seconde</button>-->
-  <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
+  <!--<button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>-->
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
@@ -152,9 +152,9 @@
  <div id="Terminale" class="w3-container city" style="display:none">
    <p id="para1">Terminale Générale</p>
    <p id="para3"><a href="mat/Tle/Programme-TleG.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Programme de l'année</u></font>  </a> et <a href="mat/Tle/Cahier_de_texte_Tle.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de texte</u></font></a> </p>
-   <p id="para6">📁 Chapitre 0 : Le langage mathématiques et quelques notations</p>
+   <p id="para6">📁 Chapitre 0 : Les Incertitudes</p>
     <ul>
-       <li><a href="mat/Tle/0/Chapitre_0.pdf" dowload="" target="_blank"><p id="para4">📄  Cours- La récurrence</p></a></li>
+       <li><a href="" dowload="" target="_blank"><p id="para4">📄  Cours - Incertitudes</p></a></li>
     </ul>
     <!--<button onclick="myFunction('Demo1001')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 1 : Les Suites</p></button>
       <div id="Demo1001" class="w3-hide w3-container w3-light-grey"> 
@@ -204,12 +204,12 @@
        <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Intégrale </p></a></li>
        <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices -  Intégrale</p></a></li>
     </ul></div>-->
-   <p id="para6">📁 Chapitre 7: Équations différentielles</p>
+   <p id="para6">📁 Chapitre : Nomenclature en Chimie organique </p>
     <ul>
-       <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
-       <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
+       <li><a href="chimie/Tle/Nomenclature/Nomenclature .pdf" dowload="" target="_blank"><p id="para4">📄   Cours- Nomenclature</p></a></li>
+       <!--<li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/TD_correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
-       <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>
+       <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>-->
     </ul>
     <!--<button onclick="myFunction('Demo1008')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 8 : Probabilité 2 : Variables aléatoires </p></button>
       <div id="Demo1008" class="w3-hide w3-container w3-light-grey"> 
