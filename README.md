@@ -33,7 +33,7 @@
   <p id="para3"> Sur ce site, vous trouverez des cours de Physique-Chimie qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.</p>
   <br>
    <div id="center">
-      <p id="para33">Si vous avez des questions, vous pouvez m’envoyer un mail <a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BP-C%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20 ne%20changez%20pas%20l'objet%20du%20mail).">ici⯑ </a>. Je vous répondrai dès que possible par mail, ou vous pouvez consulter l’onglet « Forum », où je publierai certaines questions avec leurs réponses. Si vous constatez une erreur, merci de me le signaler <title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=
+      <p id="para33">Si vous avez des questions, vous pouvez m’envoyer un mail <a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BP-C%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20 ne%20changez%20pas%20l'objet%20du%20mail).">ici⯑ </a>. Je vous répondrai dès que possible par mail, ou vous pouvez consulter l’onglet « Forum », où je publierai certaines questions avec leurs réponses. Si vous constatez une erreur, merci de me le signaler <a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=
        (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">ici ‼‽</a>.
      </p></div>
      <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
