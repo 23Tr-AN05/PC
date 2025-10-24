@@ -30,7 +30,7 @@
  </div>
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
-  <p id="para3"> Je suis actuellement étudiant en deuxième année de Licence de Physique-Chimie (avec majeur en Chimie).  <br>Sur ce site, vous trouverez des cours de Physique-Chimie qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.</p>
+  <p id="para3"> Sur ce site, vous trouverez des cours de Physique-Chimie qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.</p>
   <br>
    <div id="center">
       <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
