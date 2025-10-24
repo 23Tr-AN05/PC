@@ -33,7 +33,7 @@
   <p id="para3"> Sur ce site, vous trouverez des cours de Physique-Chimie qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.</p>
   <br>
    <div id="center">
-      <p id="para33">Si vous avez des questions, vous pouvez m’envoyer un mail <a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BP-C%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20 ne%20changez%20pas%20l'objet%20du%20mail).">ici⯑ </a>. Je vous répondrai dès que possible par mail, ou vous pouvez consulter l’onglet « Forum », où je publierai certaines questions avec leurs réponses. Si vous constatez une erreur, merci de me le signaler <a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=
+      <p id="para33">Si vous avez des questions, vous pouvez m’envoyer un mail, <a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BP-C%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20 ne%20changez%20pas%20l'objet%20du%20mail).">ici⯑ </a>. Je vous répondrai dès que possible par mail, ou vous pouvez consulter l’onglet « Forum », où je publierai certaines questions avec leurs réponses.<br> Si vous constatez une erreur, merci de me le signaler <a   title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=
        (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">ici ‼‽</a>.
      </p></div>
      <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
@@ -206,15 +206,15 @@
        <li><a href="mat/Tle/ED/TD_correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>-->
     </ul>
-    <!--<button onclick="myFunction('Demo1008')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 8 : Probabilité 2 : Variables aléatoires </p></button>
+    <button onclick="myFunction('Demo1008')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre  : Modelisation microscopique </p></button>
       <div id="Demo1008" class="w3-hide w3-container w3-light-grey"> 
      <ul>
-       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours -  Variables aléatoires  </p></a></li>
-       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Variables aléatoires  </p></a></li>
-       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Variables aléatoires </p></a></li>
-       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Variables aléatoires </p></a></li>
+       <li><a href="chimie/Tle/modelisation/modélisation_microscopique_d-un_syst.pdf   " dowload="" target="_blank"><p id="para4">📄   Cours -  Modelisation microscopique  </p></a></li>
+       <!--<li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Modelisation microscopique  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Modelisation microscopique </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Modelisation microscopique </p></a></li>-->
     </ul></div>
-    <button onclick="myFunction('Demo1009')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9 : Dénombrement  </p></button>
+    <!--<button onclick="myFunction('Demo1009')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9 : Dénombrement  </p></button>
       <div id="Demo1009" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours - Dénombrement    </p></a></li>
